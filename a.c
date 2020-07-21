@@ -1,4 +1,5 @@
 #include <stdio.h>
 
-aaaaaaaaaaa
-int main()
+int main() {
+    return 0;
+}
