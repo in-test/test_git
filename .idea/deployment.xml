@@ -5,7 +5,7 @@
       <paths name="zhouxiaofeng@10.231.253.91:22">
         <serverdata>
           <mappings>
-            <mapping deploy="pycharmTest/" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="pycharmTest" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
