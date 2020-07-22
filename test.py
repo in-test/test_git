@@ -1,7 +1,8 @@
-import feature
+from feature import greet_many
 
 
 def func():
+    test()
     print("hello")
 
 
@@ -9,11 +10,9 @@ def test():
     print("This is master test")
 
 
-if __name__ == "__main__":
-    import pydevd_pycharm
+def fb():
+    pass
 
-    pydevd_pycharm.settrace('10.90.191.231', port=51234, stdoutToServer=True, stderrToServer=True)
-    test()
-    func()
-    feature.fea()
-    print("master add something")
+
+if __name__ == "__main__":
+    greet_many(['chard', 1])
