@@ -11,8 +11,10 @@ def test():
 
 
 def fb():
+    print("haha")
     pass
 
 
 if __name__ == "__main__":
     greet_many(['chard', 1])
+	fb()
