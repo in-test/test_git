@@ -17,4 +17,6 @@ def fb():
 
 if __name__ == "__main__":
     greet_many(['chard', 1])
-	fb()
+    fb()
+    test()
+	func()
