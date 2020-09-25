@@ -1,0 +1,3 @@
+[submodule "go-gorm"]
+	path = go-gorm
+	url = https://github.com/go-gorm/gorm.git
